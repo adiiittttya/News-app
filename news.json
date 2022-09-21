@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+"totalResults": 36,
+"articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "ESPN"
+    },
+    "author": "Rich Cimini",
+    "title": "New York Jets QB Zach Wilson works out, 'it's possible' he plays Sunday, coach Robert Saleh says - ESPN",
+    "description": "Zach Wilson worked out on the field Monday, and it remains possible the New York Jets quarterback could return from a knee injury in time to start Sunday against the Ravens.",
+    "url": "https://www.espn.com/nfl/story/_/id/34530015/new-york-jets-qb-zach-wilson-works-possible-plays-sunday-coach-robert-saleh-says",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0818%2Fr1049930_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-09-05T18:43:37Z",
+    "content": "FLORHAM PARK, N.J. -- The New York Jets cast some doubt on their quarterback situation for Week 1, announcing Monday that Zach Wilson worked out for the first time since Aug. 16 arthroscopic knee sur… [+2620 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Martha Bellisle",
+    "title": "1 dead, 9 missing after floatplane crashes in Puget Sound - The Associated Press",
+    "description": "RENTON, Wash. (AP) — The U.S. Coast Guard was continuing to search Monday for nine people, including a child, who were missing after a floatplane crashed in the waters of Puget Sound northwest of Seattle.",
+    "url": "https://apnews.com/article/travel-seattle-puget-sound-plane-crashes-5885a38c9862960be0691feb8917852d",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/4ff174ec6bfc41908a2abbc210e100f0/3000.jpeg",
+    "publishedAt": "2022-09-05T18:11:48Z",
+    "content": "RENTON, Wash. (AP) The U.S. Coast Guard was continuing to search Monday for nine people, including a child, who were missing after a floatplane crashed in the waters of Puget Sound northwest of Seatt… [+3310 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Alexander Mallin, Katherine Faulders",
+    "title": "Judge grants Donald Trump's request for special master, halts government review of seized Mar-a-Lago documents - ABC News",
+    "description": "The DOJ had argued documents were already reviewed by its team.",
+    "url": "https://abcnews.go.com/Politics/judge-grants-donald-trumps-request-special-master-halts/story?id=89361883",
+    "urlToImage": "https://s.abcnews.com/images/US/donald-trump-02-ap-jef-220905_1662393462133_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-09-05T17:26:15Z",
+    "content": "In a win for Donald Trump, Judge Aileen Cannon has granted a request from the former president's legal team to appoint a special master to review documents seized in the FBI search of his Mar-a-Lago … [+1706 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Brent Lang",
+    "title": "Colin Farrell Lands Rapturous 13-Minute Standing Ovation at Venice for ‘The Banshees of Inisherin’ - Yahoo Entertainment",
+    "description": "From “Nomadland” to “Birdman,” Searchlight Pictures always finds itself in the thick of the awards race, and the indie studio may have just secured itself another ticket to the Oscars with “The Banshees of Inisherin.” The darkly comic fable from Martin McDona…",
+    "url": "https://variety.com/2022/film/festivals/colin-farrell-standing-ovation-venice-film-festival-banshees-of-inisherin-1235360770/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/08/the_banshees_of_inisherin_.jpeg?w=970",
+    "publishedAt": "2022-09-05T17:19:16Z",
+    "content": "From “Nomadland” to “Birdman,” Searchlight Pictures always finds itself in the thick of the awards race, and the indie studio may have just secured itself another ticket to the Oscars with “The Bansh… [+2725 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Natasha Turak, Samantha Subin, Leslie Josephs",
+    "title": "EU warns of depleted weapon stocks; Macron urges French to cut energy use by 10% - CNBC",
+    "description": "European markets are feeling the fallout from the war in Ukraine, with the euro falling below 99 cents after Russia shut off its gas supply pipeline to Europe.",
+    "url": "https://www.cnbc.com/2022/09/05/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090204-16581591352022-07-18t154329z_1450481610_rc2ays9n5bms_rtrmadp_0_ukraine-crisis-gazprom-nordstream-factbox.jpeg?v=1662365039&w=1920&h=1080",
+    "publishedAt": "2022-09-05T17:03:00Z",
+    "content": "Russia \"hasn't been held sufficiently accountable\" for its war crimes in Ukraine, Lt. Col. Alexander Vindman told CNN's \"New Day\" on Monday.\r\n\"We could just say this is a disastrous human toll impose… [+1122 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Daniel Politi",
+    "title": "Chile looks for way forward after rejecting new constitution - The Associated Press",
+    "description": "SANTIAGO, Chile (AP) — Chilean leaders on Monday began trying to chart a fresh course toward updating the country's dictatorship-era constitution after voters overwhelmingly rejected a progressive proposal that many felt went too far.",
+    "url": "https://apnews.com/article/chile-constitutions-santiago-charters-augusto-pinochet-bf6b51c0fee501e7391cce91fd52732b",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/4300aba557a7456eac3782e3c50cc3f4/3000.jpeg",
+    "publishedAt": "2022-09-05T16:59:20Z",
+    "content": "SANTIAGO, Chile (AP) Chilean leaders on Monday began trying to chart a fresh course toward updating the countrys dictatorship-era constitution after voters overwhelmingly rejected a progressive propo… [+5504 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Hadas Gold, CNN",
+    "title": "Israeli military admits Shireen Abu Akleh likely killed by Israeli fire​​​​, but won't charge soldiers - CNN",
+    "description": "The Israel Defense Forces have ​admitted for the first time that there is a \"high possibility\" Palestinian-American Al Jazeera journalist Shireen Abu Akleh was shot and killed by Israeli fire while covering an Israeli military operation in May.",
+    "url": "https://www.cnn.com/2022/09/05/middleeast/idf-shireen-abu-akleh-investigation-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220511032125-shireen-abu-akleh-fb-unlimited-super-tease.jpg",
+    "publishedAt": "2022-09-05T16:53:00Z",
+    "content": "Jerusalem (CNN)The Israel Defense Forces have admitted for the first time that there is a \"high possibility\" Palestinian-American Al Jazeera journalist Shireen Abu Akleh was shot and killed by Israel… [+7284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Ethan Shanfeld",
+    "title": "Tiffany Haddish Responds to Child Sexual Abuse Lawsuit: ‘I Deeply Regret’ Acting in ‘Through a Pedophile’s Eyes’ Sketch - Variety",
+    "description": "Tiffany Haddish has spoken out in response to the child sexual abuse lawsuit that was filed against her and comedian Aries Spears. “I know people have a bunch of questions. I get it. I’m right there with you,” Haddish wrote on Instagram. “Unfortunately becaus…",
+    "url": "https://variety.com/2022/tv/news/tiffany-haddish-child-sexual-abuse-lawsuit-responds-1235360684/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1242277472.jpg?w=1024",
+    "publishedAt": "2022-09-05T16:20:00Z",
+    "content": "Tiffany Haddish has spoken out in response to the child sexual abuse lawsuit that was filed against her and comedian Aries Spears.\r\n“I know people have a bunch of questions. I get it. I’m right there… [+2255 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, Mike Hayes and Maureen Chowdhury, CNN",
+    "title": "Live updates: Stabbing in Canada's Saskatchewan province and manhunt - CNN",
+    "description": "A manhunt is underway in Canada for two men who are suspects in a mass stabbing Sunday that left at least 10 dead and 15 injured at multiple scenes in an Indigenous community and the surrounding area in Saskatchewan. Follow here for the latest news updates.",
+    "url": "https://www.cnn.com/americas/live-news/canada-stabbing-saskatchewan-manhunt-updates-09-05-22/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220904221052-04-canada-stabbing-super-tease.jpg",
+    "publishedAt": "2022-09-05T15:44:00Z",
+    "content": "Police received the first report of a stabbing on the James Smith Cree Nation at 5:40 a.m. local time (6:30 a.m. ET) on Sunday morning, and within minutes several more calls came in reporting other s… [+1670 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Lucas Finton and Astrid Kayembe, USA TODAY",
+    "title": "Man charged in disappearance of Eliza Fletcher in Memphis - USA TODAY",
+    "description": "The disappearance of Eliza Fletcher set off a large-scale search in Memphis, but her whereabouts remain unknown.",
+    "url": "https://www.usatoday.com/story/news/nation/2022/09/05/eliza-fletcher-memphis-jogger-missing/7996067001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/05/USAT/b2b852a2-30e9-4782-ab18-bc7839f69ffb-AP_Jogger_Abducted.jpg?auto=webp&crop=1407,792,x0,y602&format=pjpg&width=1200",
+    "publishedAt": "2022-09-05T15:14:28Z",
+    "content": "A 38-year-old man is charged with especially aggravated kidnapping in the disappearance of a Memphis teacher, 34, after police said DNA on a pair of slides linked him to the woman.\r\nBut, police said,… [+5610 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Once-Rumored iPhone 14 Features We Aren't Expecting Anymore - MacRumors",
+    "description": "After over a year of reports about the iPhone 14 lineup, several once-believed rumors are no longer expected to come true when the devices are...",
+    "url": "https://www.macrumors.com/2022/09/05/iphone-14-features-not-expected/",
+    "urlToImage": "https://images.macrumors.com/t/tWCZSSvKcRCz9lN15VPKsXzjlzs=/2250x/article-new/2022/08/iPhone-14-multicolored-feature-single-pill.jpg",
+    "publishedAt": "2022-09-05T14:48:12Z",
+    "content": "After over a year of reports about the iPhone 14 lineup, several once-believed rumors are no longer expected to come true when the devices are unveiled this week. \r\nThe iPhone 14 Pro models are expec… [+6923 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Scott Thompson",
+    "title": "Cowboys sign Eagles legend offensive lineman to practice squad: report - Fox News",
+    "description": "Jason Peters, the Eagles legend that isn't ready tor retire just yet, is reportedly signing with the Dallas Cowboys -- a team he hated for most of his career.",
+    "url": "https://www.foxnews.com/sports/cowboys-sign-eagles-legend-offensive-lineman-to-practice-squad",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/JasonPeters3.jpg",
+    "publishedAt": "2022-09-05T14:33:39Z",
+    "content": "Aiming to still play one of the toughest positions in football at age 40, Jason Peters is reportedly joining a team he considered a rival for most of his career. \r\nThe Eagles offensive tackle legend … [+2820 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": "Fred Lambert",
+    "title": "Donald Trump goes on nonsensical rant about electric cars: ‘We need to rid of them’ - Electrek.co",
+    "description": "Former President Donald Trump went on a nonsensical rant about electric vehicles at a rally in Pennsylvania last week.",
+    "url": "https://electrek.co/2022/09/05/donald-trump-nonsensical-rant-electric-cars/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Donald-Trump-electric-car-rant.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-05T14:32:00Z",
+    "content": "Former President Donald Trump went on a nonsensical rant about electric vehicles at a rally in Pennsylvania last week. Trump claimed an all-electric vehicle was getting “38 miles per gallon” and even… [+5078 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Ultra-Processed Foods Linked With Heart Disease, Bowel Cancer and Death - SciTechDaily",
+    "description": "Findings add further evidence in support of policies that limit ultra-processed foods. Two large research studies published by The BMJ last week find links between high consumption of ultra-processed foods and increased risks of cardiovascular disease, bowel …",
+    "url": "https://scitechdaily.com/ultra-processed-foods-linked-with-heart-disease-bowel-cancer-and-death/",
+    "urlToImage": "https://scitechdaily.com/images/Hot-Dog-and-Chips.jpg",
+    "publishedAt": "2022-09-05T14:12:08Z",
+    "content": "Newly published research links high consumption of ultra-processed foods and increased risks of cardiovascular disease, colorectal cancer, and death.\r\nFindings add further evidence in support of poli… [+5981 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Jess Weatherbed",
+    "title": "Psssstt…you can watch House of the Dragon for free on YouTube right now - The Verge",
+    "description": "House of the Dragon is available to watch for free on YouTube, just days after Amazon Prime released The Lord of the Rings: The Rings of Power.",
+    "url": "https://www.theverge.com/2022/9/5/23337730/watch-house-of-the-dragon-free-youtube-now-hbo-max",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/77s8FaDKgc8TMXtMjukVooOFf6U=/57x0:1864x946/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23955807/house_of_the_dragon.jpeg",
+    "publishedAt": "2022-09-05T14:05:01Z",
+    "content": "The first episode at least, just like a Costco sample\r\nHBO is tempting new subscribers to its streaming service with a free sample of House of the Dragon.\r\nImage: HBO Max\r\nHBO has made the first epis… [+1978 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Two Russian embassy staff dead, four others killed in suicide bomb blast in Kabul - Reuters.com",
+    "description": "Two Russian embassy staff in Kabul were among six people killed when a suicide bomber detonated explosives near the entrance of the embassy, in a blast that injured at least 10 others, the Russian Foreign Ministry and Afghan officials said on Monday.",
+    "url": "https://www.reuters.com/world/asia-pacific/afghan-police-report-suicide-bomb-blast-near-russian-embassy-kabul-2022-09-05/",
+    "urlToImage": "https://www.reuters.com/resizer/u-BYAXT6napPgs0QBqmJuKXzMPc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YNDMRAKUWFM6DPKWDJ5NQ6FCGY.jpg",
+    "publishedAt": "2022-09-05T13:57:00Z",
+    "content": "KABUL, Sept 5 (Reuters) - Two Russian embassy staff in Kabul were among six people killed when a suicide bomber detonated explosives near the entrance of the embassy, in a blast that injured at least… [+2673 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Emma Colton",
+    "title": "Lori Lightfoot doubts Gov. Abbott’s faith as migrant buses arrive in Chicago: 'He professes to be a Christian' - Fox News",
+    "description": "Democratic Chicago Mayor Lori Lightfoot questioned Texas Gov. Greg Abbott's Christian faith in remarks condemning the buses of migrants being sent from Texas up to Chicago.",
+    "url": "https://www.foxnews.com/us/lori-lightfoot-doubts-gov-abbotts-faith-migrant-buses-arrive-chicago-professes-christian",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/abbottlightfoot.png",
+    "publishedAt": "2022-09-05T13:31:21Z",
+    "content": "Chicago Mayor Lori Lightfoot cast doubt on Gov. Greg Abbotts Christian faith in remarks denouncing the Texas Republican busing migrants from the southern border up to the Windy City. \r\n\"He professes … [+4754 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "IANS",
+    "title": "TikTok hacked, over 2 bn user database records stolen: Security researchers - Business Standard",
+    "description": "Cybersecurity researchers on Monday discovered a potential data breach in Chinese shortform video app TikTok allegedly involving up to 2 billion user database records",
+    "url": "https://www.business-standard.com/article/technology/tiktok-hacked-over-2-bn-user-database-records-stolen-security-researchers-122090500767_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/28/full/1601311545-8273.jpg",
+    "publishedAt": "2022-09-05T12:57:00Z",
+    "content": "Cyber-security researchers on Monday discovered a potential data breach in Chinese short-form video app TikTok, allegedly involving up to 2 billion user database records.\r\nSeveral cyber-security anal… [+3460 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Steven Petrow",
+    "title": "Psilocybin as a mental health therapy? Some things to know. - The Washington Post",
+    "description": "Interest in and use of the drug is growing, but much is unknown.",
+    "url": "https://www.washingtonpost.com/health/2022/09/05/psilocybin-mental-health-psychedelics/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPXKOZRMPJD5VBTZDDXSJIAAI4.jpg&w=1440",
+    "publishedAt": "2022-09-05T12:15:11Z",
+    "content": "Comment on this story\r\nA few weeks ago, I mentioned to a friend that I was interested in learning more about psychedelics, especially how they might help me with depression and anxiety. Thats a broad… [+9206 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "OregonLive"
+    },
+    "author": "The Associated Press",
+    "title": "Now that COVID-19 boosters are arriving in Oregon, when should you get the new vaccine shot? - OregonLive",
+    "description": "Updated shots made by Pfizer and its partner BioNTech are authorized for anyone 12 and older, and rival Moderna’s version is for adults.",
+    "url": "https://www.oregonlive.com/coronavirus/2022/09/now-that-covid-19-boosters-are-arriving-in-oregon-when-should-you-get-the-new-vaccine-shot.html",
+    "urlToImage": "https://www.oregonlive.com/resizer/SzhLW7E2z9UG85G1MjieXL1SWqA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SUKFKLWVNZBEDMNA3N5BTGU7KE.jpeg",
+    "publishedAt": "2022-09-05T12:04:00Z",
+    "content": "New COVID-19 boosters targeting todays most common omicron strains offer a chance to get the most up-to-date protection at yet another critical period in the pandemic.\r\nBut health officials recommend… [+5345 chars]"
+  }
+]
+}
